@@ -2,9 +2,9 @@
 
 This was made as a plug-in replacement upgrade for the horrible capacitor popping controller found in the Hot Wheels slot car sets from Mattel.
 
-![Hot Wheels](/images/hotwheels.png)
+![Hot Wheels](/images/hotwheels.jpg)
 
-# Features:  
+## Features:  
 * It doesn't break if you short circuit a track.  
 * Actual speed control, you can now go smoothly from still to full speed, instead of "still, jump to 70%, smooth to 100%".
 
